@@ -1,5 +1,5 @@
-#ifndef LAST_COMMANDS_PARSER_H
-#define LAST_COMMANDS_PARSER_H
+#ifndef COMMANDS_PARSER_H
+#define COMMANDS_PARSER_H
 
 #include <vector>
 #include <string>
@@ -15,4 +15,4 @@ public:
 };
 
 
-#endif //LAST_COMMANDS_PARSER_H
+#endif //COMMANDS_PARSER_H
