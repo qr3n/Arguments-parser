@@ -5,14 +5,14 @@ Command line argument parser
 
 1. Include the header file in your project
 ```cpp
-#include "ArgParser.h"
+#include "ArgsParser.h"
 ```
 
 2. Add .cpp file to build configuration
 ```cmake
 #CMake
 
-add_executable(main.cpp ArgParser.cpp)
+add_executable(main.cpp ArgsParser.cpp)
 ```
 
 3. Create a class object, passing it command line options as arguments
